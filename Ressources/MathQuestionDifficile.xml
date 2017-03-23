@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionRep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionRep>
+    <BonneRep>15625</BonneRep>
+    <EnnonceTexte>1,  8,   81,  1024,   ?
+ Question : Quel nombre est le prochain? </EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>2048</string>
+      <string>3125</string>
+      <string>15625</string>
+      <string>59049</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>4</BonneRep>
+    <EnnonceTexte>973,   189,   72,   14,   4
+ Question : Quel est le nombre prochain ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>0</string>
+      <string>1</string>
+      <string>3</string>
+      <string>4</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>4</BonneRep>
+    <EnnonceTexte>0000 -&gt;4
+ 1 -&gt; 0
+ 6 -&gt; 1
+ 88 -&gt; 4
+ 111 -&gt; 0
+ 3946 -&gt; 2
+ 846915687 -&gt; 8
+  846915686-&gt; 7
+ 68-&gt; ??
+ Combien vaut 68 ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>0</string>
+      <string>1</string>
+      <string>2</string>
+      <string>3</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>1,35$</BonneRep>
+    <EnnonceTexte>Placez vingt pièces de 0,01$ en ligne droite sur une table.
+Remplacez chaque quatrième pièce par une pièce de 0,05$
+ Remplacez maintenant chaque troisième pièce par une pièce de 0,10$
+ Ensuite remplacez chaque sixième pièce par une pièce de 0,25$
+ Question : Quel est maintenant le montant total de la rangée de pièces de monnaie?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>1,25$</string>
+      <string>1,35$</string>
+      <string>1,55$</string>
+      <string>1.56$</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>18</BonneRep>
+    <EnnonceTexte>Des poules et des chevaux sont dans la grange. 
+ Le nombre total de têtes et d'ailes est égal au nombre total de pattes des poules et des chevaux.
+Les vingt-quatre animaux sont tous en bon état!
+Question : Combien de poules sont dans la grange? </EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>18</string>
+      <string>21</string>
+      <string>223</string>
+      <string>25</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>50 mètres</BonneRep>
+    <EnnonceTexte>Cheryl et Justin marchent en direction opposée près des rails de train.
+ Chaque personne marchent à une vitesse de 3 kmph.
+ Le train dépasse Cheryl en cinq secondes et dépasse Justin en six secondes.
+ Le train roule à vitesse constante.
+ Question : Quelle est la longueur du train? </EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>20 mètres</string>
+      <string>50 mètres</string>
+      <string>100 mètres</string>
+      <string>120 mètres</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>14</BonneRep>
+    <EnnonceTexte>Quelle est la valeur de la seconde figure en suivant la logique ?</EnnonceTexte>
+    <Image>QMd7img.jpg</Image>
+    <TabReponses>
+      <string>5</string>
+      <string>7</string>
+      <string>10</string>
+      <string>14</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>120</BonneRep>
+    <EnnonceTexte>Les sièges d’un télésiège sont régulièrement espacés et numérotés dans l’ordre à partir de 1.
+ Lorsque la place 13 croise la place 25 alors le siège 46 croise le 112.
+ Quel est le nombre de sièges au total ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>112</string>
+      <string>115</string>
+      <string>120</string>
+      <string>150</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>0%</BonneRep>
+    <EnnonceTexte>Si vous choisissez une réponse a cette question au hasard, quelle est la probabilité qu’elle soit juste ?
+ A) 50%
+ B) 25%
+ C) 60%
+ D) 25%</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>0%</string>
+      <string>25%</string>
+      <string>50%</string>
+      <string>100%</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Marc</BonneRep>
+    <EnnonceTexte>Marc et Nathan font une course sur 100 mètres.
+ Lors de la première course, c’est Marc qui l’emporte avec 5 mètres d’avance sur son concurrent.
+ Pour équilibrer les choses, Marc décide de partir 5 mètres derrière la ligne de départ pour la seconde course. 
+ Qui remporte cette deuxième course ?
+ (on part du principe que les deux garçons courent à la même vitesse que lors de la 1ere course)</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>Marc</string>
+      <string>Nathan</string>
+      <string>Egalité</string>
+      <string>La réponse D</string>
+    </TabReponses>
+  </QuestionRep>
+</ArrayOfQuestionRep>

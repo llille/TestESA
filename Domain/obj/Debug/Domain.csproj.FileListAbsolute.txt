@@ -1,0 +1,42 @@
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\bin\Debug\Graphique.dll
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\bin\Debug\Graphique.pdb
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\obj\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\Domain\obj\Debug\Domain.pdb
+C:\Users\llille\Downloads\Combiné\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\llille\Downloads\Combiné\Domain\obj\Debug\Domain.dll
+C:\Users\llille\Downloads\Combiné\Domain\obj\Debug\Domain.pdb
+C:\Users\llille\Downloads\Combiné\Domain\bin\Debug\Domain.dll
+C:\Users\llille\Downloads\Combiné\Domain\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\Combiné\Domain\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\Combiné\Domain\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\Combiné\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\Combiné\Domain\obj\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\Combiné\Domain\obj\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\Domain\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\Domain\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\Domain\obj\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\Domain\obj\Debug\Domain.pdb
+H:\projet-lille_lemairedemil-1\Domain\bin\Debug\Domain.dll
+H:\projet-lille_lemairedemil-1\Domain\bin\Debug\Domain.pdb
+H:\projet-lille_lemairedemil-1\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+H:\projet-lille_lemairedemil-1\Domain\obj\Debug\Domain.dll
+H:\projet-lille_lemairedemil-1\Domain\obj\Debug\Domain.pdb
+C:\Users\llille\Downloads\ESA Designé\Domain\bin\Debug\Domain.dll
+C:\Users\llille\Downloads\ESA Designé\Domain\bin\Debug\Domain.pdb
+C:\Users\llille\Downloads\ESA Designé\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\llille\Downloads\ESA Designé\Domain\obj\Debug\Domain.dll
+C:\Users\llille\Downloads\ESA Designé\Domain\obj\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\ESA Designé\Domain\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\ESA Designé\Domain\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\ESA Designé\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\ESA Designé\Domain\obj\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\ESA Designé\Domain\obj\Debug\Domain.pdb
+C:\Users\User\Desktop\ESA Designé\Domain\bin\Debug\Domain.dll
+C:\Users\User\Desktop\ESA Designé\Domain\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\ESA Designé\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ESA Designé\Domain\obj\Debug\Domain.dll
+C:\Users\User\Desktop\ESA Designé\Domain\obj\Debug\Domain.pdb

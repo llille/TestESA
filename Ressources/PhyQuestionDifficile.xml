@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionRep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionRep>
+    <BonneRep>Sens horaire</BonneRep>
+    <EnnonceTexte>Dans quel sens tourne la poulie bleue ? </EnnonceTexte>
+    <Image>QPd1img.jpg</Image>
+    <TabReponses>
+      <string>Sens horaire</string>
+      <string>Sens Antihoraire</string>
+      <string>PasDeReponse</string>
+      <string>PasDeReponse</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>5,10m</BonneRep>
+    <EnnonceTexte>Un enfant (mesurant 1m50) lance verticalement, vers le haut, une bille de masse m avec une vitesse initiale de 10,0 m / s.
+ Quelle est la hauteur atteinte par la bille ?
+ L'énergie potentielle de la bille dans le champ de pesanteur est nulle lorsqu'elle se trouve au point de départ O (zO = 0 m).
+ On négligera les frottement et on considèrera que la balle garde sa trajectoire.;</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>5,10m</string>
+      <string>9m</string>
+      <string>9,10m</string>
+      <string>10m</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>171 µm</BonneRep>
+    <EnnonceTexte>En plaçant un cheveu devant un rayon laser de longueur d'onde λ = 632 nm, on observe sur l'écran, 
+placé à la distance D = 7,05 m, une figure de diffraction. Si la largeur de la tâche centrale vaut L = 52,0 mm, 
+le diamètre (a) du cheveu mesure :</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>171 µm</string>
+      <string>171 mm</string>
+      <string>17,1 µm</string>
+      <string>17,1 mm</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Grande devant t</BonneRep>
+    <EnnonceTexte>Les muons sont des particules instables qui se désintègrent en moyenne au bout d'une durée propre t. 
+Au CERN, la durée d'existence mesurée pour des muons animés d'une vitesse proche de c est en moyenne ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>Grande devant t</string>
+      <string>Petite devant t</string>
+      <string>Egale à t</string>
+      <string>Négligeable devant t</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>1</BonneRep>
+    <EnnonceTexte>Supposons dans un cas donné que deux référentiels galiléens sont immobiles l’un par rapport à l’autre, 
+le facteur de Lorentz ϒ dans la relation de dilatation des durées dévient égal à ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>0</string>
+      <string>L'infini</string>
+      <string>1</string>
+      <string>2</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>isomères de nature de fonction</BonneRep>
+    <EnnonceTexte>﻿Le propanone (CH3-CO-CH3) et le propanal CH3-CH2-COH) sont des :</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>stéréoisomères</string>
+      <string>isomères de position de fonction</string>
+      <string>isomères de chaîne</string>
+      <string>isomères de nature de fonction</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>uR1=E</BonneRep>
+    <EnnonceTexte>En régime stationnaire établi (ou permanent), la tension aux bornes du résistor R1 est : </EnnonceTexte>
+    <Image>QPd7img.jpg</Image>
+    <TabReponses>
+      <string>uR1=E(R1/(R1+R2))</string>
+      <string>uR1=0</string>
+      <string>uR1=E</string>
+      <string>uR1=E(R1xR2xC/L)</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>13,8 cm^3</BonneRep>
+    <EnnonceTexte>Un récipient cylindrique en verre de rayon R=2,0 cm contient un glaçon de volume V0=15cm^3 
+ et de l'eau liquide. Données : h0=10,0 cm ; masse volumique de la glace = 920kg.m-3
+ Quel est le volume immergé du glaçon ?</EnnonceTexte>
+    <Image>QPd8img.jpg</Image>
+    <TabReponses>
+      <string>1,2 cm^3</string>
+      <string>13,8 cm^3</string>
+      <string>10,6 cm^3</string>
+      <string>16,3 cm^3</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>23,5mm</BonneRep>
+    <EnnonceTexte>Une lunette astronomique est constituée de deux lentilles minces convergentes (L1) et (L2),
+respectivement assimilées à un objectif et à un oculaire de distances focales images f'1=115mm et f'2=20mm.
+ A quelle distance de O2 trouve-t-on l'image de 01 par (L2)?</EnnonceTexte>
+    <Image>QPd8img.jpg</Image>
+    <TabReponses>
+      <string>5,21mm</string>
+      <string>17,4mm</string>
+      <string>23,5mm</string>
+      <string>7,35mm</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>3,12 kJ/(K.kg)</BonneRep>
+    <EnnonceTexte>Une enceinte cylindrique fermée par un piston, mobile sans frottement, contient 500 g d'hélium
+ gazeux, monoatomique, de masse molaire M = 4 g.mol−1. Dans l'état (1) initial, le volume de l'enceinte 
+est V1 = 100 L, et le gaz, supposé parfait, est à la température T1 = 600 K. 
+ Calculer la capacité thermique massique à volume constant cV de l'hélium. </EnnonceTexte>
+    <Image>QPd10img.jpg</Image>
+    <TabReponses>
+      <string>1,38 kJ/(K.kg)</string>
+      <string>2,91 kJ/(K.kg)</string>
+      <string>3,12 kJ/(K.kg)</string>
+      <string>5,19 kJ/(K.kg)</string>
+    </TabReponses>
+  </QuestionRep>
+</ArrayOfQuestionRep>

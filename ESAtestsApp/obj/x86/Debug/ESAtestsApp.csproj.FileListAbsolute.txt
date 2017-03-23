@@ -1,0 +1,166 @@
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1ReponseForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\Graphique.dll
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\Graphique.pdb
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\test\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1ReponseForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\llille\Downloads\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\alemairedem\Desktop\Combiné En cours de nettoyage\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+H:\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+H:\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+H:\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\Domain.dll
+H:\projet-lille_lemairedemil-1\ESAtestsApp\bin\Debug\Domain.pdb
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+H:\projet-lille_lemairedemil-1\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\llille\Desktop\ESA\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\llille\Desktop\ESA\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\llille\Desktop\ESA\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\llille\Desktop\ESA\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\llille\Desktop\ESA\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\llille\Downloads\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\alemairedem\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\bin\Debug\ESAtestsApp.exe
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\bin\Debug\ESAtestsApp.pdb
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\bin\Debug\Domain.dll
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\bin\Debug\Domain.pdb
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.MenuForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Properties.Resources.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.ScoreForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.SerieForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.EnonceForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test1QuestionForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test2QuestionForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3OperationForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test3QuestionForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.Test45QuestionForm.resources
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.exe
+C:\Users\User\Desktop\ESA Designé\ESAtestsApp\obj\x86\Debug\ESAtestsApp.pdb

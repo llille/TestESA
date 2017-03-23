@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionRep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionRep>
+    <BonneRep>D</BonneRep>
+    <EnnonceTexte>Dans quel cas est-il le plus facile de bouger la pierre?</EnnonceTexte>
+    <Image>QPf1img.jpg</Image>
+    <TabReponses>
+      <string>A</string>
+      <string>B</string>
+      <string>C</string>
+      <string>D</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Sens horaire</BonneRep>
+    <EnnonceTexte>Dans quelle sens troune le roue jaune ?</EnnonceTexte>
+    <Image>QPf2img.jpg</Image>
+    <TabReponses>
+      <string>Sens horaire</string>
+      <string>Sens antihoraire</string>
+      <string>PasDeReponse</string>
+      <string>PasDeReponse</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>6V</BonneRep>
+    <EnnonceTexte>Le générateur délivre une tension de 6V et est parcouru par un courant de 150mA.
+ Quelle est la tension aux bornes de la lampe ?</EnnonceTexte>
+    <Image>QPf3img.jpg</Image>
+    <TabReponses>
+      <string>0.9 V</string>
+      <string>6V</string>
+      <string>9V</string>
+      <string>90V</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>230V</BonneRep>
+    <EnnonceTexte>Quelle tension faut-il appliquer à une résistance de 50 ohm pour qu’elle soit parcourue par un courant de 4,6 A ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>92mV</string>
+      <string>10.9V</string>
+      <string>54.6V</string>
+      <string>230V</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Vers la gauche</BonneRep>
+    <EnnonceTexte>Dans quel sens circule le courant ?</EnnonceTexte>
+    <Image>QPf5img.jpg</Image>
+    <TabReponses>
+      <string>Vers la gauche</string>
+      <string>Vers le droite</string>
+      <string>PasDeReponse</string>
+      <string>PasDeReponse</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>4 ms</BonneRep>
+    <EnnonceTexte>La vitesse de balayage de l’oscilloscope est B = 1 ms/div.
+ La sensibilité verticale de l’oscilloscope est Sv = 2 V/div.
+ Combien de temps dure une periode ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>1 ms</string>
+      <string>2 ms</string>
+      <string>4 ms</string>
+      <string>2 s</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>N</BonneRep>
+    <EnnonceTexte>Quel est le symbole chimique de l'azote ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>A</string>
+      <string>Az</string>
+      <string>O</string>
+      <string>N</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>H2O</BonneRep>
+    <EnnonceTexte>Quelle est la formule chimique de l'eau ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>HO</string>
+      <string>O2</string>
+      <string>H2O</string>
+      <string>O</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Fe + S -&gt; FeS</BonneRep>
+    <EnnonceTexte>Pour fabriquer du sulfure de fer (FeS), on chauffe fortement 5,6g de fer (Fe) en poudre avec du soufre (S).
+ Quel est l''équation bilan de cette réaction chimique ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>Fe + S -&gt; FeS</string>
+      <string>Fe + O2 -&gt; FeO2</string>
+      <string>Fe + O -&gt; FeO</string>
+      <string>Fe + S2 -&gt; FeS2</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>A=8 ,B=5 ,C=6</BonneRep>
+    <EnnonceTexte>Equilibrez l'équation-bilan de la combustion complète du pentane.
+ C5H12 + A O2 --&gt; B CO2 + C H2O</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>A=1 ,B=5 ,C=2</string>
+      <string>A=6 ,B=5 ,C=6</string>
+      <string>A=8 ,B=5 ,C=6</string>
+      <string>A=5 ,B=5 ,C=6</string>
+    </TabReponses>
+  </QuestionRep>
+</ArrayOfQuestionRep>

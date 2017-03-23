@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuestionRep xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionRep>
+    <BonneRep>92</BonneRep>
+    <EnnonceTexte>Hors-saison, un hôtel propose une chambre double à 80 Euros. En pleine saison, le prix augmente de 15%. Quel est le prix de la chambre double en pleine saison ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>81,5</string>
+      <string>92</string>
+      <string>95</string>
+      <string>120</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>9 ans</BonneRep>
+    <EnnonceTexte>La somme des âges de deux enfants est de 23 ans. Sachant que le premier a 5 ans de plus que le deuxième, quel est l’âge du plus jeune ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>9 ans</string>
+      <string>10 ans</string>
+      <string>11 ans</string>
+      <string>13 ans</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>6 mètres</BonneRep>
+    <EnnonceTexte>Un rectangle de 12 mètres par 8 mètre a la mêm surface qu’un autre rectangle dont un côtés mesure 16 mètres. Quel est la longueur du 2ème côté de cet autre rectangle ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>3 mètres</string>
+      <string>4 mètres</string>
+      <string>6 mètres</string>
+      <string>8 mètres</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Le cube</BonneRep>
+    <EnnonceTexte>Quel est l'objet qui a le plus grand volume ? (les dessins ne sont pas à la même échelle).</EnnonceTexte>
+    <Image>ImgQ4.jpg</Image>
+    <TabReponses>
+      <string>Le cube</string>
+      <string>La sphère</string>
+      <string>Le cylindre</string>
+      <string>Le parallélépipède</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>1000000</BonneRep>
+    <EnnonceTexte>Combien y a-t-il de centimètre cube dans un mètre cube ?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>100</string>
+      <string>1000</string>
+      <string>10000</string>
+      <string>1000000</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>5 voitures et 40 motos</BonneRep>
+    <EnnonceTexte>Dans un parking, il y a en tout 40 véhicules (auto-moto).
+Il y a 100 roues, en tout, posées sur le sol.
+Question : Combien y a t il de voitures et de motos?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>5 voitures et 40 motos</string>
+      <string>10 voitures et 10 motos</string>
+      <string>15 voitures et 15 motos</string>
+      <string>20 voitures et 10 motos</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>Felix : 2 ans et Geneviève : 12 ans</BonneRep>
+    <EnnonceTexte>Félix a maintenant un sixième l'âge de Geneviève.
+Dans quatre ans, il aura trois huitième l'âge de Geneviève.
+ Dans huit ans, il aura la moitié l'âge de Geneviève.
+Question : Quel âge ont Félix et Geneviève?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>Felix : 1 an et Geneviève : 10 ans</string>
+      <string>Felix : 2 ans et Geneviève : 12 ans</string>
+      <string>Felix : 5 ans et Geneviève : 17 ans</string>
+      <string>Felix : 10 ans et Geneviève : 60 ans</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>50 min</BonneRep>
+    <EnnonceTexte>Trois barbiers peuvent couper les cheveux de quatre hommes en vingt minutes.
+Question : Combien de temps prendront six barbiers pour couper les cheveux de vingt hommes? </EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>30 min</string>
+      <string>40 min</string>
+      <string>50 min</string>
+      <string>60 min</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>50</BonneRep>
+    <EnnonceTexte>Question : Quel nombre est un dixième d'un quart d'une demie de 4000?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>5</string>
+      <string>20</string>
+      <string>40</string>
+      <string>50</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>225</BonneRep>
+    <EnnonceTexte>Une chauve-souris mange 1050 moustiques en quatre soirs.
+ Chaque soir, la chauve-souris mange 25 moustiques de plus que le soir précédent.</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>200</string>
+      <string>225</string>
+      <string>250</string>
+      <string>275</string>
+    </TabReponses>
+  </QuestionRep>
+  <QuestionRep>
+    <BonneRep>12</BonneRep>
+    <EnnonceTexte>Karine marche sur la plage.
+ Elle trouve 1,92$
+Elle remarque qu'elle a trouvé le même nombre de pièces de 1 cent, de 5 cents et de 10 cents.
+ Question : Combien de pièces de chaque sorte trouve-t-elle?</EnnonceTexte>
+    <Image />
+    <TabReponses>
+      <string>12</string>
+      <string>14</string>
+      <string>16</string>
+      <string>18</string>
+    </TabReponses>
+  </QuestionRep>
+</ArrayOfQuestionRep>
